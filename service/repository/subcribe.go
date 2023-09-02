@@ -1,6 +1,6 @@
 package repository
 
-// Subscribe adiciona um novo canal de inscrição a um determinado canal.
+// Subscribe add a new subscription channel to a given queue.
 func (r *Repository) Subscribe(queue string, callback func(message any)) error {
 	r.mu.Lock()
 	defer r.mu.Unlock()

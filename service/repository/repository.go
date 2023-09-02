@@ -50,6 +50,7 @@ func createDirectory(dirPath string) error {
 	return nil
 }
 
+// loadChannels loads all channels from a given directory.
 func loadChannels(dirPath string) (map[string][]chan any, error) {
 
 	channels := make(map[string][]chan any)
