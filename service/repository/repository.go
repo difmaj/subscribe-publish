@@ -5,7 +5,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/difmaj/studiosol-backend-challenge/service"
+	"github.com/difmaj/subscribe-publish/service"
 )
 
 // Repository is a struct that defines the repository

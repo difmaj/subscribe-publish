@@ -1,3 +1,3 @@
-module github.com/difmaj/studiosol-backend-challenge
+module github.com/difmaj/subscribe-publish
 
 go 1.21
