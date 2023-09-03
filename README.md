@@ -9,21 +9,3 @@ Implement a simple Publish/Subscribe library just using Golang standard librarys
 - Extra points if the library uses generics to support message types.
 
 ## How to run
-
-### Run tests
-
-```bash
-make test
-```
-
-### Run tests with coverage
-
-```bash
-make test-coverage
-```
-
-### Run tests with coverage and open browser
-
-```bash
-make test-coverage-html
-```
