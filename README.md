@@ -1,4 +1,4 @@
-# studiosol-backend-challenge
+# subscribe-publish
 
 ## Challenge description
 
